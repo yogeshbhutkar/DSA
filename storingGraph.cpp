@@ -2,6 +2,7 @@
 using namespace std;
 
 // The following code is for storing undirected graph in a matrix data structure
+// The space complexity for it is O(n*n) and is costly to store graphs this way.
 
 int main() {
     int n, m;
